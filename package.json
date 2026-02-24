@@ -1,0 +1,1 @@
+{ "title": "Chinese Flashcards", "description": "A simple flashcard application for learning Chinese characters", "version": "1.0.0", "scripts": { "start": "node app.js" } }
